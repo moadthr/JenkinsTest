@@ -4,9 +4,6 @@
     <list default="true" id="2204c999-a797-40af-b2dc-fad5b99d46dd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/test/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/jenkins-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/jenkins-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -55,14 +52,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="33" />
+          <entry key="java" value="63" />
           <entry key="txt" value="8" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="33" />
+          <entry key="JAVA" value="63" />
           <entry key="PLAIN_TEXT" value="8" />
           <entry key="XML" value="2" />
         </counts>
@@ -93,8 +90,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/test/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+            <state relative-caret-position="120">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="e#79#80#0" expanded="true" />
                 <element signature="e#118#119#0" expanded="true" />
@@ -206,7 +203,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550607478176" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550618004933" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
@@ -234,7 +231,7 @@
       <option name="presentableId" value="Default" />
       <updated>1546428645643</updated>
       <workItem from="1546428650415" duration="510000" />
-      <workItem from="1550606396530" duration="814000" />
+      <workItem from="1550606396530" duration="1161000" />
     </task>
     <task id="LOCAL-00001" summary="commit 1">
       <created>1550607448481</created>
@@ -243,17 +240,37 @@
       <option name="project" value="LOCAL" />
       <updated>1550607448481</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit 1">
+      <created>1550607493126</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1550607493126</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit 1">
+      <created>1550607536880</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1550607536880</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit 1">
+      <created>1550607555436</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1550607555436</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1324000" />
+    <option name="totallyTimeSpent" value="1671000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -268,7 +285,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32959184" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32959184" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32959184" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -295,7 +312,33 @@
                 <collection />
               </option>
               <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
+                <collection>
+                  <UserGroup>
+                    <option name="users">
+                      <list>
+                        <option value="origin/develop" />
+                      </list>
+                    </option>
+                  </UserGroup>
+                  <UserGroup>
+                    <option name="users">
+                      <list>
+                        <option value="develop" />
+                      </list>
+                    </option>
+                  </UserGroup>
+                </collection>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/develop" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
               </option>
               <option name="COLUMN_ORDER">
                 <list>
@@ -331,8 +374,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/test/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="e#79#80#0" expanded="true" />
             <element signature="e#118#119#0" expanded="true" />
